@@ -15,8 +15,3 @@ This project applies K-Means clustering to segment mall customers based on annua
 - pandas
 - matplotlib
 - scikit-learn
-
-## Run Instructions
-```bash
-pip install -r requirements.txt
-python kmeans_clustering.py
